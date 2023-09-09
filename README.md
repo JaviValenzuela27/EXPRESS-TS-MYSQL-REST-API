@@ -22,5 +22,6 @@ IMPORTANTE:::INSTALAR EL MODULO "TYPES" DE CADA UNA DE LOS MODULOS QUE VAYA A UT
 -Comando para iniciar el repositorio: git init  
 -Añadir archivos en stagedt(verificar CRLF o LF) con comando: git add .  
 -Hacer el commit con comando: git commit -m "First Commit"  
--Ejecutar la linea que aparece en repositorio github: 
+-Ejecutar la linea que aparece en repositorio github: git remote add origin git@github.com:JaviValenzuela27/EXPRESS-TS-MYSQL-REST-API.git  
+-git push origin master  
 
